@@ -11,3 +11,12 @@ release/
 treasury_secure/
 
 *.enc
+
+# Local audit reports
+chain_full.txt
+nio_check_audit.txt
+nio_project_audit.txt
+nio_test_audit.txt
+nio_test_result.txt
+
+nio_reserve.keystore
