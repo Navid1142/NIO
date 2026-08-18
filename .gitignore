@@ -1,0 +1,13 @@
+﻿target/
+release/
+*.bak
+.env
+.env.*
+*.key
+*.pem
+*.secret
+*.seed
+*.keystore
+treasury_secure/
+
+*.enc
